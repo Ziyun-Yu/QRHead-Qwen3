@@ -1,0 +1,7 @@
+# Qwen3-Embedding-8B Full Head Configuration
+
+attn_head_set: "full_heads"
+model_base_class: "Qwen3-Embedding-8B"
+model_name_or_path: "Qwen/Qwen3-Embedding-8B"
+
+

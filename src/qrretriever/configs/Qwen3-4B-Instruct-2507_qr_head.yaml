@@ -1,0 +1,5 @@
+# QR Head Configuration for Qwen3-4B-Instruct-2507
+
+model_name_or_path: Qwen/Qwen3-4B-Instruct-2507
+model_base_class: Qwen3-4B-Instruct-2507
+attn_head_set: '21-8,17-25,13-11,7-7,22-4,24-29,27-19,20-17,9-10,15-13,15-11,23-10,27-18,25-30,19-13,16-21'

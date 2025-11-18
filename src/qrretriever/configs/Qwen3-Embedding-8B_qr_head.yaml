@@ -1,0 +1,5 @@
+# QR Head Configuration for Qwen3-Embedding-8B
+
+model_name_or_path: Qwen/Qwen3-Embedding-8B
+model_base_class: Qwen3-Embedding-8B
+attn_head_set: '19-24,20-17,15-11,20-14,20-23,18-23,20-18,21-8,20-19,28-23,21-10,13-13,20-16,9-29,23-13,18-17'

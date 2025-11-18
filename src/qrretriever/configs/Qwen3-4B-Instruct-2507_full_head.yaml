@@ -1,0 +1,6 @@
+# Qwen3-4B-Instruct-2507 Full Head Configuration
+
+attn_head_set: "full_heads"
+model_base_class: "Qwen3-4B-Instruct-2507"
+model_name_or_path: "Qwen/Qwen3-4B-Instruct-2507"
+
